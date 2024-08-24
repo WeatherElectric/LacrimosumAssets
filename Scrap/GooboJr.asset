@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fabde8b367b9ace43b4944eeb338c7f7, type: 3}
+  m_Name: GooboJr
+  m_EditorClassIdentifier: 
+  itemId: 0
+  itemName: Goobo Jr.
+  spawnPositionTypes: []
+  twoHanded: 0
+  twoHandedAnimation: 0
+  disableHandsOnWall: 0
+  canBeGrabbedBeforeGameStart: 0
+  weight: 1.05
+  itemIsTrigger: 0
+  holdButtonUse: 0
+  itemSpawnsOnGround: 1
+  isConductiveMetal: 0
+  isScrap: 1
+  creditsWorth: 0
+  lockedInDemo: 0
+  highestSalePercentage: 80
+  maxValue: 215
+  minValue: 125
+  spawnPrefab: {fileID: 3165161073507300579, guid: 38e7a8c97ab5cff4f89dec026225a512,
+    type: 3}
+  requiresBattery: 0
+  batteryUsage: 15
+  automaticallySetUsingPower: 1
+  itemIcon: {fileID: 21300000, guid: 09ec487ee23d4f8498d56fbbf0e6c679, type: 3}
+  grabAnim: 
+  useAnim: 
+  pocketAnim: 
+  throwAnim: 
+  grabAnimationTime: 0
+  grabSFX: {fileID: 8300000, guid: 76b604c6ce6a334418a6b2f7fbc001fd, type: 3}
+  dropSFX: {fileID: 8300000, guid: 9c0b5845d1be0854092523aa44279c10, type: 3}
+  pocketSFX: {fileID: 0}
+  throwSFX: {fileID: 0}
+  syncGrabFunction: 1
+  syncUseFunction: 1
+  syncDiscardFunction: 1
+  syncInteractLRFunction: 1
+  saveItemVariable: 0
+  isDefensiveWeapon: 0
+  toolTips:
+  - 'Throw Goobo Jr. : [LMB]'
+  - Spawn a gummy clone of yourself.
+  - It may not be friendly.
+  verticalOffset: 0.0416
+  floorYOffset: 0
+  allowDroppingAheadOfPlayer: 1
+  restingRotation: {x: 0, y: 0, z: 0}
+  rotationOffset: {x: -54.68, y: -1.58, z: 14.54}
+  positionOffset: {x: 0, y: 0.07, z: -0.02}
+  meshOffset: 0
+  meshVariants: []
+  materialVariants: []
+  usableInSpecialAnimations: 0
+  canBeInspected: 0
