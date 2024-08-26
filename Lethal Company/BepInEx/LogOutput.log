@@ -1,0 +1,16 @@
+[Info   :     CSync] CSync successfully applied patches.
+[Info   : LethalLib] LethalLib loaded!!
+[Info   :Lacrimosum] Loading fragiledeviations.lacrimosum...
+[Info   :Lacrimosum] Config loaded for fragiledeviations.lacrimosum
+[Info   :Lacrimosum] Netcode patched for fragiledeviations.lacrimosum
+[Info   :Lacrimosum] Assets loaded for fragiledeviations.lacrimosum
+[Info   :Lacrimosum] PlayerEventTracker loaded
+[Info   :Lacrimosum] NetworkPrefabsHelper loaded
+[Info   :Lacrimosum] MenuMusicReplacer loaded
+[Info   :Lacrimosum] MineReplacement loaded
+[Info   :Lacrimosum] ElevatorMusicReplacer loaded
+[Info   :More Suits] Plugin More Suits is loaded!
+[Info   : LethalLib] Adding 0 unlockables to unlockables list
+[Info   : LethalLib] Adding 2 items to terminal
+[Info   : LethalLib] Found 0 prefabs to fix
+[Warning:  HarmonyX] UnpatchAll has been called - This will remove ALL HARMONY PATCHES.
