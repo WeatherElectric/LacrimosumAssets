@@ -80,4 +80,5 @@ crashlytics-build.properties
 *.dll*
 
 # Paid Assets
-EasyColliderEditor/
+Assets/Packages/EasyColliderEditor/*
+Assets/Unity/AssetStore/*
